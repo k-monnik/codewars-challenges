@@ -1,0 +1,1 @@
+Collection of completed codewars challenges and my solutions.
